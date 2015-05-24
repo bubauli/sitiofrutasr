@@ -1,0 +1,31 @@
+@charset "utf-8";
+/* CSS Document */
+#paginainicio
+{background:#3FF}
+
+#titulo
+{background: #999; color: #3CF}
+
+#pienombre
+{background:#6CC; color: #9F6}
+
+#introduccion
+{ color: #FF9; size:"50"; text-align:justify; background: #9CC; width:98%; margin:1%}
+
+#BAYAS
+{ color:#0C9; text-align:justify; background:#36C}
+
+#CITRICOS
+{ color:#096; text-align:justify; background:#C9C}
+
+#CURBITASCEAS
+{ color:#39C; text-align:justify; background:#969}
+
+#EXOTICAS
+{ color:#999; text-align:justify; background:#F66}
+
+#FRUTA-DULCE
+{ color:#36C; text-align:justify; background:#693}
+
+#FRUTOS-SECOS
+{ color:#C96; text-align:justify; background:#399}
